@@ -20,12 +20,12 @@ You should call the script with the source command. So:
 
 ### Setup as command: cdh ### 
 for easier use you can setup a function in your ~/.bash_profile to call the script for you like this:
-	```
-	cdh ()
-	{
-        	source cdhistory.sh
-	}
-	```
+```
+cdh ()
+{
+	source cdhistory.sh
+}
+```
 
 Don't forget to source ~/.bash_profile after you've added the function.
 	`$ source ~/.bash_profile`
