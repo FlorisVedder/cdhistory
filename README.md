@@ -15,7 +15,9 @@ Make sure that the location of cdhistory.sh is in your $PATH variable. See: 'How
 
 #### Calling your script ####
 You should call the script with the source command. So:
-	`$ source cdhistory.sh`
+```
+$ source cdhistory.sh
+```
 
 
 ### Setup as command: cdh ### 
