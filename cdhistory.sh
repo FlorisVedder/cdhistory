@@ -1,3 +1,4 @@
+#!/bin/sh
 pathoptions=''
 IFS=$'\n'
 history_paths=$(history | grep -o '/Volumes/[^.]*\|~/[^.]*' \
