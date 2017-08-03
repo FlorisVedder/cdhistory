@@ -5,7 +5,7 @@
 
 ### Functionality ###
 The script shows you an option list of all absolute paths that are in your bash history.
-After giving the option, the scripts changes directory to that path.
+After entering one of the options by it's number, the scripts changes directory to that path.
 
 So very handy when you don't know the exact path or maybe projectname anymore and want to go quickly to that location.
 
